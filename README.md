@@ -1,0 +1,2 @@
+# KayJay-Django
+Django CRUD
